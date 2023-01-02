@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Développement/Minecraft/Serveurs/1.7.10/spigot-1.7.10.jar"/>
+	<classpathentry kind="lib" path="D:/Développement/Minecraft/Serveurs/1.8.8/spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Développement/Minecraft/Serveurs/1.9.4/spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Développement/Minecraft/Serveurs/1.10.2/spigot-1.10.2.jar"/>
+	<classpathentry kind="lib" path="D:/Développement/Minecraft/Serveurs/1.11.2/spigot-1.11.2.jar"/>
+	<classpathentry kind="lib" path="D:/Développement/Minecraft/Serveurs/1.12/spigot-1.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
